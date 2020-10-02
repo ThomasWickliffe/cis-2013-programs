@@ -1,0 +1,48 @@
+body {
+    font-family: Gerogia, Times, serif;
+    background: #666666;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+h1 {
+	text-align: center;
+    color: DarkCyan;
+}
+
+p {
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+    border-width: 2px;
+    font-family: Comic Sans MS;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+    color: red;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 75px;
+}
+
+#futureValue {
+    color: #000000;
+}
+
+br {
+    clear: left;
+}
